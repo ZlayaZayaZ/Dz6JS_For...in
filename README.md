@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ia37gcjjpi3hyuox?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/dz6js-for-in)
+
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 [оригинал](https://github.com/netology-code/ajs-homeworks/tree/ajs8/advanced)
 
